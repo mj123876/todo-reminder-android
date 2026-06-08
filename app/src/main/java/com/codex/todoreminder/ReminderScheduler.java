@@ -1,4 +1,4 @@
-﻿package com.codex.todoreminder;
+package com.codex.todoreminder;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;

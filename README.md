@@ -1,4 +1,4 @@
-﻿# 寰呭姙鎻愰啋 Android 鍘熺敓鐗?
+# 寰呭姙鎻愰啋 Android 鍘熺敓鐗?
 椤圭洰浣嶇疆锛歚D:\CODEX\todo-reminder-android`
 
 杩欐槸鍘熺敓 Android 搴旂敤锛屼笉鏄綉椤靛３銆傛彁閱掍娇鐢?Android 绯荤粺閫氱煡鍜?AlarmManager 瀹氭椂瑙﹀彂锛屾晥鏋滄帴杩戞櫘閫?App 閫氱煡銆?

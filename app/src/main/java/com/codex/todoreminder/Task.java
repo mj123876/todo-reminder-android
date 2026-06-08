@@ -1,4 +1,4 @@
-﻿package com.codex.todoreminder;
+package com.codex.todoreminder;
 
 public class Task {
     public String id;

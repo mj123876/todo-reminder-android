@@ -1,4 +1,4 @@
-﻿package com.codex.todoreminder;
+package com.codex.todoreminder;
 
 import android.content.Context;
 import android.content.SharedPreferences;
